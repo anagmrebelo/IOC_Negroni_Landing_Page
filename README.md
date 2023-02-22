@@ -4,5 +4,4 @@
 Landing page for a cocktail bar with a simple menu and impacting photos
 
 <br>
-<img alt="Website" style="width:100%" src="https://user-images.githubusercontent.com/66007323/220498091-58fe584e-fa75-49fe-8756-2704b9fde94f.gif">
-
+<img alt="Negroni Website" style="height:100%" src="https://user-images.githubusercontent.com/66007323/220499374-6153810d-91b3-42fa-b1db-6a634bc73026.gif">
