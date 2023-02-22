@@ -1,4 +1,4 @@
-# IOC_Negroni_Website
+# IOC_Negroni
 
 ## Project description:
 Landing page for a cocktail bar with a simple menu and impacting photos
